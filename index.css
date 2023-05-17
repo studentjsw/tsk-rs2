@@ -1,0 +1,89 @@
+body{
+    background-color: #8a9694;
+    
+ }
+ 
+ .navbar{
+     color: white;
+     font-size: large;
+     text-align: center;
+     font-weight: bolder;
+     background-color: black;
+ }
+ 
+ label{
+     font-weight: bolder;
+ }
+ 
+ .text-align
+ {
+     font-weight: bolder;
+ }
+ .display1{
+   display: flex;
+   justify-content: center;
+ }
+ 
+ .Full-body{
+     margin: 0 auto;
+ }
+ .one1{
+     padding-left: 25px;
+     margin: 0px;
+     
+ }
+ .one2{
+     padding-left: 25px;
+     bottom: 70px;
+    
+ }
+ .one3{
+     padding-left:25px; 
+     margin-top: 10px;
+ }
+ .one4{
+ 
+     padding-left:25px; 
+     margin-top: 20px
+ }
+ .one5{
+     padding:15px;
+     padding-left:30px; 
+     margin-top: 20px
+     
+ }
+ .one6{
+ 
+     padding:15px;
+     padding-left:30px; 
+     margin-top: 20px
+ }
+ .one7{
+ 
+     padding:15px;
+     padding-left:30px; 
+     margin-top: 20px
+ }
+ .btn
+ {
+     width: 25%;
+ }
+ 
+ .name{
+     width: 25%;
+     
+ }
+ 
+ @media only screen and (max-width: 600px) {
+ .btn
+ {
+     width: 35%;
+ }
+ .form-control {
+    display: block;
+    width: 75%;
+}
+.Full-body{
+    width: 40%;
+}
+}
